@@ -135,7 +135,7 @@ This project demonstrates:
 
 ## 📄 License
 Educational use only  
-Developed for **ECE3301L – Embedded Systems Lab (Fall 2021, Lab 10)**
+Developed for **ECE3301L – Embedded Systems Lab**
 
 ---
 
